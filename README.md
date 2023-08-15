@@ -7,15 +7,15 @@ Libraries used:
 - Arduino
 
 Hardware needed:
--M3x4 Brass Thraeded insert x4
--M3x12 Round hex head screw x4
--M4x10 Self threading screw with cone shaped head x2
--M3 washer x4
--2 way switch x2
--simple button x1
--10KΩ Potentiometer x2
--Arduino pro micro (USB C preffered) x1
--USB C Cable x1
+- M3x4 Brass Thraeded insert x4
+- M3x12 Round hex head screw x4
+- M4x10 Self threading screw with cone shaped head x2
+- M3 washer x4
+- 2 way switch x2
+- simple button x1
+- 10KΩ Potentiometer x2
+- Arduino pro micro (USB C preffered) x1
+- USB C Cable x1
 
 
 Simulators it supports:
